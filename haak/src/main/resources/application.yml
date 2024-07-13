@@ -1,0 +1,16 @@
+info:
+  app:
+    name: 앤디북스
+    version: 0.1.0
+    description: ㅎㅇㅎㅇ
+
+
+
+management:
+  endpoint:
+    env:
+      showd
+  endpoints:
+    web:
+      exposure:
+        include: health,info,beans,env,metrics
